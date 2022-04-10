@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Practica1
 //
-//  Created by bigsur on 07/04/22.
+//  Created by Eduardo Gomez on 01/04/22.
 //
 
 import UIKit
